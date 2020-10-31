@@ -1,4 +1,4 @@
-# Project Title
+# MudPy
 
 It started with a desire to script in python for a mud I was playing. Python 3 wasn't supported, and other python implementations of mud clients didn't serve my needs.
  - main.py - the main file needed to run. currently all code is in this file, but it may be broken up in future. Star this repository for updates!
