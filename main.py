@@ -1,7 +1,12 @@
 import telnetlib
 import sys
+import os
+
+os.system("color")
 
 # telnet to a mud within your compiler!
+
+
 def main():
     curr_session = telnetlib.Telnet("tiopon.mudmagic.com", 3500)
     
