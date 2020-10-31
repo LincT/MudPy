@@ -43,6 +43,8 @@ Python 3.8!
 ## Contributing
 
 Please feel free to fork and submit pull requests.
+also these rules seem like good guidelines to follow:
+https://www.contributor-covenant.org/version/1/4/code-of-conduct/
 
 ## Authors
 
@@ -57,6 +59,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * [This template from PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Ansi in Windows https://stackoverflow.com/a/64222858
