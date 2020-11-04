@@ -58,6 +58,6 @@ This project is licensed under the following license - see the [LICENSE.md](LICE
 
 ## Acknowledgments
 
-* [This template from PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+* [PurpleBooth](https://gist.github.com/PurpleBooth) She writes amazing readme's
 * Ansi in Windows https://stackoverflow.com/a/64222858
 * https://choosealicense.com/
